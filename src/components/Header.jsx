@@ -34,10 +34,12 @@ const Header = () => {
   }
 
   return (
-    <header className={"width-max text-center text-4xl p-24"}>
+    <header className={"width-max text-center text-2xl p-6 pt-12 md:text-4xl md:pt-24"}>
       <Time />
-      <p className={"font-serif mt-12 text-2xl italic"}>"{quote}"</p>
-      <p className={"text-xl"}>{author}</p>
+      <div className={"px-3 mt-4 md:my-12"}>
+        <p className={"font-serif text-2xl italic"}>"{quote}"</p>
+        <p className={"text-xl"}>{author}</p>
+      </div>
     </header>
   )
 }
