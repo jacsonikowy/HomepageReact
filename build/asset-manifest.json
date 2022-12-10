@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2651d26b.css",
+    "main.js": "/static/js/main.b6ef3a9b.js",
+    "static/js/787.5c39024c.chunk.js": "/static/js/787.5c39024c.chunk.js",
+    "static/media/norway.jpg": "/static/media/norway.672cd60f5a223aecf864.jpg",
+    "index.html": "/index.html",
+    "main.2651d26b.css.map": "/static/css/main.2651d26b.css.map",
+    "main.b6ef3a9b.js.map": "/static/js/main.b6ef3a9b.js.map",
+    "787.5c39024c.chunk.js.map": "/static/js/787.5c39024c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2651d26b.css",
+    "static/js/main.b6ef3a9b.js"
+  ]
+}
