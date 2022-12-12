@@ -1,6 +1,5 @@
 import { useState, useEffect } from 'react'
 import Time from "./Time"
-import norway from "./norway.jpg"
 
 const Header = () => {
   
@@ -9,6 +8,7 @@ const Header = () => {
 
   useEffect(() => {
     displayQuotes();
+    // eslint-disable-next-line
   }, [])
   
   const getQuotes = async () => {
