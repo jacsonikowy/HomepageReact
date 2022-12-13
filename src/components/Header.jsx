@@ -34,7 +34,7 @@ const Header = () => {
   }
 
   return (
-    <header className={"width-max text-center text-2xl p-6 pt-12 md:text-4xl md:pt-24"}>
+    <header className={"w-screen text-center text-2xl p-6 pt-12 md:text-4xl md:pt-24"}>
       <Time />
       <div className={"px-3 mt-4 md:my-12"}>
         <p className={"font-serif text-2xl italic"}>"{quote}"</p>
